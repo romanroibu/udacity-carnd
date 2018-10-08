@@ -11,8 +11,7 @@ type | name | description | tags
 [`project`][type-project] | Vehicle Tracking | In this project, your goal is to write a software pipeline to identify vehicles in a video from a front-facing camera on a car. |
 [`project`][type-project] | [Traffic Sign Classifier](https://github.com/romanroibu/carnd-traffic-sign-classifier) | You just finished getting your feet wet with deep learning. Now put your skills to the test by using deep learning to classify different traffic signs! |
 [`project`][type-project] | [Behavioral Cloning](https://github.com/romanroibu/carnd-behavioral-cloning) | Put your deep learning skills to the test with this project! Train a deep neural network to drive a car like you! |
-[`project`][type-project] | Extended Kalman Filters | In this project, you'll apply everything you've learned so far about Sensor Fusion by implementing an Extended Kalman Filter in C++! |
-[`project`][type-project] | Unscented Kalman Filters | Put your skills to the test! Use C++ to code an Unscented Kalman Filter capable of tracking non-linear motion. |
+[`project`][type-project] | [Extended Kalman Filters](https://github.com/romanroibu/carnd-extended-kalman-filter) | In this project, you'll apply everything you've learned so far about Sensor Fusion by implementing an Extended Kalman Filter in C++! |
 
 ## Term 2: Localization, Path Planning, Control, and System Integration
 
